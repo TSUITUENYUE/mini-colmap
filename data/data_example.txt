@@ -1,2 +1,2 @@
-Extract the zip from the link and put it under the data folder.
+Extract the data example from the link and put the files under this folder.
 https://drive.google.com/file/d/1QbFbAAn4-lmS0ff9QKBYlCdlglVUA0eQ/view?usp=share_link
